@@ -1,4 +1,4 @@
-# 02-Bases
+# 02-GifsApp
 
 _Aplicación basada en búsqueda de gifs y mostrarlos por pantalla, usando el servicio de busqueda de gifs: [https://developers.giphy.com/]._
 
